@@ -1,0 +1,63 @@
+{
+	"binary_file_patterns":
+	[
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip"
+	],
+	"button": "button1",
+	"color_scheme": "Packages/Seti_UX/Seti.tmTheme",
+	"command": "goto_definition",
+	"count": 1,
+	"default_line_ending": "unix",
+	"dictionary": "Packages/Language - English/en_US.dic",
+	"ensure_newline_at_eof_on_save": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules",
+		".sass-cache",
+		"apigen",
+		"tmp",
+		"__pycache__"
+	],
+	"font_size": 9,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"ignored_words":
+	[
+		"Carregar",
+		"Getting"
+	],
+	"index_files": false,
+	"modifiers":
+	[
+		"ctrl"
+	],
+	"press_command": "drag_select",
+	"rulers": 120,
+	"spell_check": false,
+	"tab_size": 4,
+	"theme": "Seti_orig.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": true,
+	"word_wrap": "true",
+	"wrap_width": 120
+}

@@ -1,0 +1,6 @@
+[08/30/2017 02:31:48AM] INFO - ==== Loading 'Xdebug Client.sublime-package' package ====
+[08/30/2017 02:31:48AM] INFO - Failed to open C:\Users\admin\AppData\Roaming\Sublime Text 3\Packages\User\Xdebug.breakpoints.
+[08/30/2017 02:31:48AM] INFO - Failed to parse C:\Users\admin\AppData\Roaming\Sublime Text 3\Packages\User\Xdebug.breakpoints.
+[08/30/2017 02:31:48AM] INFO - Failed to open C:\Users\admin\AppData\Roaming\Sublime Text 3\Packages\User\Xdebug.expressions.
+[08/30/2017 02:31:48AM] INFO - Failed to parse C:\Users\admin\AppData\Roaming\Sublime Text 3\Packages\User\Xdebug.expressions.
+[08/30/2017 02:32:32AM] WARNING - TypeScript plugin initialized.
